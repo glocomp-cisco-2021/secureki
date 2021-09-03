@@ -1,5 +1,3 @@
-<a href="http://glocomp.com" target="_blank"><img src="https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/62009499919/original/ic_launcher.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAS6FNSMY2RG7BSUFP%2F20210610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210610T020401Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8b0bd730da5533c31b18238924ec06ed3fbba44b04ba2767aa013cf266183e3a" alt="Glocomp_Cisco_2021"/></a>
-
 # Overview
 [![License](https://img.shields.io/badge/License-View%20License-orange)](http://www.glocomp.com/)
 
