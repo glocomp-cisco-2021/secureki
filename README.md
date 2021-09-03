@@ -11,7 +11,7 @@ Our solution integrate with Cisco Duo and Webex Team Cards and Buttons.
 - Webex Team to receive policy violations notification card
 
 # Featured Integrations
-[![integration](https://github.com/glocomp-cisco-2021/secureki/blob/main/docs/integration.png)]
+![integration](https://github.com/glocomp-cisco-2021/secureki/blob/main/docs/integration.png)
 
 # Installation
 
