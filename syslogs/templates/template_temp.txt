@@ -1,0 +1,18 @@
+[MAIL_HEADER]
+
+[MAIL_HEADER_TITLE]
+
+[MAIL_HEADER_NAVI]
+
+[MAIL_HEADER_CONTENT]
+
+[MAIL_BODY_TITLE]
+
+[MAIL_CONTENT_COLUMN]
+
+<tr><td style="text-align:center;">76891101</td></tr>
+
+https://[WEB_ADDRESS] <= [LINK_INFO]
+
+[ONCE_APPROVAL]
+
