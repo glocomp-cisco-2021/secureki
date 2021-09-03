@@ -36,7 +36,9 @@ OS System:
 Upload the scripts to OS. Edit the script to include Cisco Duo API Host, IKEY and SKEY.
 
 IKEY=""
+
 SKEY=""
+
 HOST=""
 
 
@@ -49,6 +51,3 @@ $ python curlsend.py
 $ python mainbots.py
 ```
 
-## Contributing
-Glocomp
-Cisco
